@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://doc.dnsunlock.com/sitemap.xml
